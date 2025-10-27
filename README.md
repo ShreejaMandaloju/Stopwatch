@@ -28,10 +28,10 @@ Just open index.html in your preferred browser.
 (No server setup required)
 ```
 ## 🖱 How to Use
-- Click START to begin timing.
-- Click PAUSE to temporarily stop the clock.
-- Click RESET to clear the time and laps.
-- Click LAP while running to record a split time.
+- Click *START* to begin timing.
+- Click *PAUSE* to temporarily stop the clock.
+- Click *RESET* to clear the time and laps.
+- Click *LAP* while running to record a split time.
 
 ## 🔮 Future Improvements
 - 🛎 Sound notifications when laps or stop events occur.
